@@ -5,7 +5,7 @@
 import os 
 
 #aqui estamos definindo o caminho da pasta onde estão os arquivos
-pasta = "arquivos_teste" #cria
+pasta = "arquivos_teste" #cria a váriável chamada 
 
 
 
