@@ -1,4 +1,11 @@
 #Automatizador de Renomeação de Arquivo
 
+#importa o módulo "os" -> Operation System.
+#essa biblioteca vem com o Python e permite que mexamos com arquivos, pastas, caminhos, etc.
+import os 
+
+#aqui estamos definindo o caminho da pasta onde estão os arquivos
+pasta = "arquivos_teste"
+
 
 
